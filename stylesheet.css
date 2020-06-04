@@ -7,19 +7,24 @@ h1 {
 
 h3 {
   text-align: center;
+  margin: 40px auto auto auto;
 }
 
 img {
   display: block;
-  margin: auto;
+  margin: 50px auto;
+
 }
 h5 {
   text-align: center;
+  padding: 0px
+  margin: auto;
 
 }
-a {
-  color: black;
-}
 body {
-  background-color: orange
-  ]
+  background-color: beige;
+  margin: 40px
+}
+a {
+  color: black
+}
