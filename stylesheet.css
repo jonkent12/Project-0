@@ -13,19 +13,22 @@ h3 {
 img {
   display: block;
   margin: 50px auto;
-  border: 4px black 
+  border: 4px black
 
 }
 h5 {
   text-align: center;
   padding: 0px
-  margin: auto;
-
-}
-body {
-  background-color: beige;
-  margin: 40px
 }
 a {
   color: black
 }
+@media (min-width: 500px) {
+ body {
+     background-color: beige;
+ }
+ }
+ @media (max-width: 499px) {
+ body {
+     background-color: #52764e;
+ }
